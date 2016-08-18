@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FragmentExample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Contact List Fragment</string>
+    <string name="hello_detail_fragment">Detail List Fragment</string>
+    <string name="title_activity_contact">ContactActivity</string>
+    <string name="testasync1">Test Async job1 </string>
+    <string name="testasync2">Test Async job2 </string>
+    <string name="testasync3">Test Async job3 </string>
+    <string name="largeText">Large Text</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "86173635668",
+    "firebase_url": "https://josephluckydraw.firebaseio.com",
+    "project_id": "josephluckydraw",
+    "storage_bucket": "josephluckydraw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86173635668:android:5b204c1f4d550ef1",
+        "android_client_info": {
+          "package_name": "com.asus.joseph_shieh.fragmentexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86173635668-q5dlirqd2a7elr741d7ie5o4p4jvk8ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asus.joseph_shieh.fragmentexample",
+            "certificate_hash": "4D4306B5967E8CC6B3549A110BC6AED9A41020C3"
+          }
+        },
+        {
+          "client_id": "86173635668-king1tkvm1lo15pnrk7a687vdog18up8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSQHCELt_fLUo6IJFB2d3kra4kBLc7Grk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86173635668-king1tkvm1lo15pnrk7a687vdog18up8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

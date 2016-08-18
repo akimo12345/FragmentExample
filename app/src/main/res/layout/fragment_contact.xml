@@ -1,0 +1,63 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.asus.joseph_shieh.fragmentexample.ContactFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/hello_blank_fragment"
+        android:paddingBottom="2dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="2dp"
+        android:paddingTop="2dp"
+        android:layout_marginBottom="6dp"/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button"
+        android:text="@string/testasync1"
+        android:layout_weight="1"
+        android:layout_margin="30dp"
+        android:onClick="Go1"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button2"
+        android:text="@string/testasync2"
+        android:layout_weight="1"
+        android:layout_margin="30dp"
+        android:onClick="Go2"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button3"
+        android:text="@string/testasync3"
+        android:layout_weight="1"
+        android:layout_margin="30dp"
+        android:onClick="Go3"/>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/largeText"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"
+        android:layout_margin="90dp"
+        android:id="@+id/info"
+        android:layout_gravity="center_horizontal" />
+
+</FrameLayout>
